@@ -1,0 +1,9 @@
+.venv/
+.venv-*/
+__pycache__/
+*.log
+*.bak-*
+forecast_bengaluru.json
+forecast_status.json
+bengaluru_raw.json
+bbmp_search.json

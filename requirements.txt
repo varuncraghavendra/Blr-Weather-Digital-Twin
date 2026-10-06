@@ -1,0 +1,4 @@
+earth2studio[fcn]==0.19.0
+fastapi
+uvicorn
+httpx
